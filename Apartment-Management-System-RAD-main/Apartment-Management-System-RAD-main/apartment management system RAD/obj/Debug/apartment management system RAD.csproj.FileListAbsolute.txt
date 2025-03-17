@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\bin\Debug\apartment management system RAD.exe.config
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\bin\Debug\apartment management system RAD.exe
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\bin\Debug\apartment management system RAD.pdb
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Properties.Resources.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.exe
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment management system RAD.pdb
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Tenants.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Apartments.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Categories.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Landlords.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Rents.resources
+C:\Users\User\source\repos\apartment management system RAD\apartment management system RAD\obj\Debug\apartment_management_system_RAD.Login.resources
